@@ -1,0 +1,507 @@
+.leftNav{
+      background-color: black;
+      color: white;
+    }  
+
+    hr{
+      color:white;
+      background-color:white;
+      width: 60%;
+    }
+
+    a{
+      color:white;
+      text-decoration: none;
+    }
+
+    a:hover{
+      color: #3ec0Be;
+    }
+     a h4{
+      text-decoration: none;
+     }
+
+    h1{
+      font-family: 'Permanent Marker', cursive;
+      font-size: 3.5em;
+    }
+
+ h1:hover{
+  color: #3ec0be;
+  text-decoration: none;
+ }
+
+ul{
+  }
+
+li{
+  list-style: none;
+  float:left;
+  padding: 5%;
+
+}
+.display{
+  display: "none";
+}
+
+  
+
+
+li img{
+  height: 30px;
+  width: 30px;
+}
+
+h4:hover{
+  color: #3ec0be;
+}
+
+
+    .student{
+      color : white;
+      background-repeat: no-repeat;
+      /*background-size: 100% 100%; */
+      padding: 20px;
+      height: 360px;
+      width: 360px;
+      border: solid white 10px ;
+      background-repeat:no-repeat;
+
+    }
+
+    
+
+.info{
+      margin-top: 38%;
+      margin-bottom: 10%;
+      display: none;
+    }
+
+    .jour:hover > .info{
+      display: block;
+
+    }
+
+    
+    }
+
+.mus:hover > .info{
+      display: block;
+
+    }
+
+.multi:hover > .info{
+      display: block;
+
+    }
+
+.one{
+  background-image: url("Aaron.jpg");
+
+}
+
+
+.one:hover{
+   background-image: 
+          linear-gradient(
+            rgba(62, 192, 190, 0.3),
+            rgba(62, 192, 190, 0.9)
+          ), url("Aaron.jpg");
+
+}
+
+.two{
+  background-image: url("Aria.JPG");
+
+}
+
+
+.two:hover{
+   background-image: 
+          linear-gradient(
+            rgba(234, 115, 23, 0.3),
+            rgba(234, 115, 23, 0.9)
+          ), url("Aria.JPG");
+
+}
+
+.three{
+  background-image: url("arlette.jpg");
+
+}
+
+
+.three:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("arlette.jpg");
+
+}
+
+.four{
+  background-image: url("Awet.JPG");
+
+}
+
+
+.four:hover{
+   background-image: 
+          linear-gradient(
+            rgba(62, 192, 190, 0.3),
+            rgba(62, 192, 190,0.9)
+          ), url("Awet.JPG");
+        }
+
+.five{
+  background-image: url("Elizabeth.JPG");
+
+}
+
+
+.five:hover{
+   background-image: 
+          linear-gradient(
+            rgba(62, 192, 190, 0.3),
+            rgba(62, 192, 190, 0.9)
+          ), url("Elizabeth.JPG");
+
+}
+
+.six{
+  background-image: url("jahlil.jpg");
+
+}
+
+
+.six:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("jahlil.jpg");
+
+}
+
+.seven{
+  background-image: url("Jose.JPG");
+
+}
+
+
+.seven:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("Jose.JPG");
+
+}
+
+
+.eight{
+  background-image: url("Kevin.jpg");
+
+}
+
+
+.eight:hover{
+   background-image: 
+          linear-gradient(
+            rgba(234, 115, 23, 0.3),
+            rgba(234, 115, 23, 0.9)
+          ), url("Kevin.jpg");
+
+}
+
+.nine{
+  background-image: url("Niya.JPG");
+
+}
+
+
+.nine:hover{
+   background-image: 
+          linear-gradient(
+            rgba(234, 115, 23, 0.3),
+            rgba(234, 115, 23, 0.9)
+          ), url("Niya.JPG");
+
+}
+
+.ten{
+  background-image: url("Sasha.JPG");
+
+}
+
+
+.ten:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("Sasha.JPG");
+
+}
+
+.elev{
+  background-image: url("Sole.JPG");
+
+}
+
+
+.elev:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("Sole.JPG");
+
+}
+
+.twelv{
+  background-image: url("taevon.jpg");
+
+}
+
+
+.twelv:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("Ibrahim2.jpg");
+
+}
+
+.thirteen{
+  background-image: url("Emilio2.jpg");
+
+}
+
+
+.thirteen:hover{
+   background-image: 
+          linear-gradient(
+            rgba(234, 115, 23, 0.3),
+            rgba(234, 115, 23, 0.9)
+          ), url("Emilio2.jpg");
+
+}
+
+.fourteen{
+  background-image: url("Cole2.jpg");
+
+}
+
+
+.fourteen:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("Cole2.jpg");
+
+}
+
+.fifteen{
+  background-image: url("Dame2.jpg");
+
+}
+
+
+.fifteen:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("Dame2.jpg");
+
+}
+
+.sixteen{
+  background-image: url("Nina2.jpg");
+
+}
+
+
+.sixteen:hover{
+   background-image: 
+          linear-gradient(
+            rgba(62, 192, 190, 0.3),
+            rgba(62, 192, 190, 0.9)
+          ), url("Nina2.jpg");
+
+}
+
+.seventeen{
+  background-image: url("Savannah2.jpg");
+
+}
+
+
+.seventeen:hover{
+   background-image: 
+          linear-gradient(
+            rgba(234, 115, 23, 0.3),
+            rgba(234, 115, 23, 0.9)
+          ), url("Savannah2.jpg");
+
+}
+.eighteen{
+  background-image: url("Zahra2.jpg");
+
+}
+
+
+.eighteen:hover{
+   background-image: 
+         linear-gradient(
+            rgba(62, 192, 190, 0.3),
+            rgba(62, 192, 190, 0.9)
+          ),url("Zahra2.jpg");
+
+}
+
+.nineteen{
+  background-image: url("Jack2.jpg");
+
+}
+
+
+.nineteen:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80,  0.9)
+          ), url("Jack2.jpg");
+
+}
+
+/*.twenty{
+  background-image: url("Jack2.jpg");
+
+}
+
+
+.twenty:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80,  0.9)
+          ), url("Jack2.jpg");
+
+} */
+
+.twOne{
+  background-image: url("Mariam2.jpg");
+
+}
+
+
+.twOne:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80,  0.9)
+          ), url("Mariam2.jpg");
+
+}
+
+
+.twSix{
+  background-image: url("Lim.jpg");
+
+}
+
+
+.twSix:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80,  0.9)
+          ), url("Lim.jpg");
+
+}
+
+
+.twSeven{
+  background-image: url("Janai.jpg");
+
+}
+
+
+.twSeven:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80,  0.9)
+          ), url("Janai.jpg");
+
+}
+
+
+.thOne{
+  background-image: url("Femi2.jpg");
+
+}
+
+
+.thOne:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80,  0.9)
+          ), url("Femi2.jpg");
+
+}
+
+
+
+.thTwo{
+  background-image: url("Dakota2.jpg");
+
+}
+
+
+.thTwo:hover{
+    background-image:  linear-gradient(
+            rgba(62, 192, 190, 0.3),
+            rgba(62, 192, 190, 0.9)
+          ), url("Dakota2.jpg");
+}
+
+.thirty {
+  background-image: url("Maya.jpg");
+}
+
+.thirty:hover {
+  background-image:  linear-gradient(
+            rgba(62, 192, 190, 0.3),
+            rgba(62, 192, 190, 0.9)
+          ), url("Maya.jpg");
+}
+
+.twThree {
+  background-image: url("Taylor.jpg");
+}
+
+.twThree:hover {
+  background-image:  linear-gradient(
+            rgba(62, 192, 190, 0.3),
+            rgba(62, 192, 190, 0.9)
+          ), url("Taylor.jpg");
+}
+
+.twTwo {
+  background-image: url("Angel.jpg");
+}
+
+.twTwo:hover {
+  background-image:  linear-gradient(
+            rgba(62, 192, 190, 0.3),
+            rgba(62, 192, 190, 0.9)
+          ), url("Angel.jpg");
+}
+
