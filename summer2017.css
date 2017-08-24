@@ -104,8 +104,8 @@ h4:hover{
 .one:hover{
    background-image: 
           linear-gradient(
-            rgba(62, 192, 190, 0.3),
-            rgba(62, 192, 190, 0.9)
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
           ), url("Aaron.jpg");
 
 }
@@ -119,8 +119,8 @@ h4:hover{
 .two:hover{
    background-image: 
           linear-gradient(
-            rgba(234, 115, 23, 0.3),
-            rgba(234, 115, 23, 0.9)
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
           ), url("Aria.JPG");
 
 }
@@ -149,8 +149,8 @@ h4:hover{
 .four:hover{
    background-image: 
           linear-gradient(
-            rgba(62, 192, 190, 0.3),
-            rgba(62, 192, 190,0.9)
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
           ), url("Awet.JPG");
         }
 
@@ -163,8 +163,8 @@ h4:hover{
 .five:hover{
    background-image: 
           linear-gradient(
-            rgba(62, 192, 190, 0.3),
-            rgba(62, 192, 190, 0.9)
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
           ), url("Elizabeth.JPG");
 
 }
@@ -209,8 +209,8 @@ h4:hover{
 .eight:hover{
    background-image: 
           linear-gradient(
-            rgba(234, 115, 23, 0.3),
-            rgba(234, 115, 23, 0.9)
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
           ), url("Kevin.jpg");
 
 }
@@ -224,8 +224,8 @@ h4:hover{
 .nine:hover{
    background-image: 
           linear-gradient(
-            rgba(234, 115, 23, 0.3),
-            rgba(234, 115, 23, 0.9)
+           rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
           ), url("Niya.JPG");
 
 }
